@@ -24,7 +24,7 @@ Infrastructure provisioning on AWS
 
 ⚙️ Setup Instructions
 Step-by-step:
-1.Clone the repository git clone https://github.com/your-username/automated-infrastructure-deployment.git
+1.Clone the repository git clone https://github.com/Sonali-Thorat26/Automated-Infrastructure-Deployment-Terraform.git
 2.Navigate to the project folder cd automated-infrastructure-deployment
 3.Install Terraform
 4.Configure AWS credentials aws configure
