@@ -1,6 +1,9 @@
 🚀 Automated Infrastructure Deployment using Shell Scripting & Cron Jobs
+
 📖 Overview
-This project automates cloud infrastructure deployment using Shell scripting and Terraform. It leverages cron jobs to schedule infrastructure provisioning and updates at specific intervals, minimizing manual effort. The system also includes logging and monitoring mechanisms to track execution results and troubleshoot failures.
+This project automates cloud infrastructure deployment using Shell scripting and Terraform.
+It leverages cron jobs to schedule infrastructure provisioning and updates at specific intervals, minimizing manual effort.
+The system also includes logging and monitoring mechanisms to track execution results and troubleshoot failures.
 
 🎯 Objectives
 Automate infrastructure deployment on AWS
